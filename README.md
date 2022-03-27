@@ -1,5 +1,6 @@
 # ClientFixer          
 **[Download (Mega.nz)](https://mega.nz/file/4jZxlQCK#_bwtCFzrKpehPpG1jyl4RiTlxNir1zTgFj3hGTJZo4I)**
+
 **[Download (Discord Attachment)](https://cdn.discordapp.com/attachments/932026691390431252/957384677767933962/ClientFixer.bat)**
 
 What is new in Version 1.1:
