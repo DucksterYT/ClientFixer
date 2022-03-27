@@ -1,5 +1,5 @@
 # ClientFixer          
-**[Download (Google Drive)](https://drive.google.com/u/0/uc?id=1XHFhO-XckJoh--nmJDfL84zI1Fk664XT&export=download)**
+**[Download (Mega.nz)](https://mega.nz/file/4jZxlQCK#_bwtCFzrKpehPpG1jyl4RiTlxNir1zTgFj3hGTJZo4I)**
 
 What is new in Version 1.1:
 
