@@ -12,3 +12,5 @@ What is new in Version 1.1:
 **ClientFixer does NOT work on the windows store version!**
 
 **ClientFixer only works on Windows 10 and up!**
+
+**ClientFixer is discontinued but will always work fine!**
